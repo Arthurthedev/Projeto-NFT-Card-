@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">Projeto Card NFT </h1>
-    <img src="./src/images/animacao-nft-1.gif" alt="gif de progamação " >
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./src/images/animacao-nft-.gif" alt="imagem final do projeto" >
+</div>
 
 ## Sobre
 - Este foi o meu primeiro projeto onde testei minhas habilidades e dominâncias sobre Html e Css.
