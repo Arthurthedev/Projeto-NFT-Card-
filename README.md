@@ -4,7 +4,7 @@
 </div>
 
 ## Sobre
-- Este foi o meu primeiro projeto onde testei minhas habilidades e dominâncias sobre Html e Css.
+- Este foi o meu primeiro projeto onde testei minhas habilidades e dominâncias sobre as propriedades Flex.
 - Apesar das dúvidas e dificuldades consegui um resultado organizado e bem feito.
 
 ## Tecnologias Utilizadas 
